@@ -44,6 +44,11 @@ img.profile-pic {
 	position: relative;
 	height: 100%;
 }
+.container2 {
+	margin: 0 auto;
+	position: relative;
+	height: 05%;
+}
 
 .row {
 	display: flex;
@@ -126,6 +131,10 @@ img.profile-pic {
 	height: 30%;
 }
 
+.banner2 {
+	height: 10%''
+}
+
 .primary-info {
 	height: 15%;
 }
@@ -138,29 +147,41 @@ img.profile-pic {
 	background-color: #F2F2F2;
 }
 
+.bg-color-blue {
+	background-color: #005096;
+}
+
 .bg-color-white {
 	background-color: white;
 }
 
 .text-name {
-    font-family: 'Lato', sans-serif;
+    font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
     font-weight: 400;
     color: #333333;
     font-size: 20px;
 }
 
 .text-title-company {
-    font-family: 'Lato', sans-serif;
+    font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
     font-weight: 200;
     color: #333333;
     font-size: 12px;
 }
 
 .text-detail {
-    font-family: 'Lato', sans-serif;
+    font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
     font-weight: 300;
     color: #575757;
     font-size: 12px;
+}
+
+.text-slogan {
+    font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+    font-weight: 400;
+    color: #ff1557;
+    font-size: 14px;
+	text-align: center;
 }
 
 .bottom {
@@ -168,7 +189,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #219653;
+	background-color: #0072C6;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
